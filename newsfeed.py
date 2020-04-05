@@ -1,2 +1,2 @@
-def f5():
+def f7():
   print("newsfeed")
